@@ -1,0 +1,2 @@
+var GUI_VERSION = ""
+var GUI_MONERO_VERSION = ""
