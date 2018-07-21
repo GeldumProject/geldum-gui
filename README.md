@@ -47,13 +47,13 @@ Packaging for your favorite distribution would be a welcome contribution!
 
 	`sudo emerge app-arch/xz-utils app-doc/doxygen dev-cpp/gtest dev-libs/boost dev-libs/expat dev-libs/openssl dev-util/cmake media-gfx/graphviz net-dns/unbound net-libs/ldns net-libs/miniupnpc sys-libs/libunwind`
 
-2. Grab an up-to-date copy of the monero-core repository
+2. Grab an up-to-date copy of the geldum repository
 
 	`git clone https://github.com/geldumproject/geldum.git`
 
 3. Go into the repository
 
-	`cd monero-core`
+	`cd geldum`
 
 4. Install the GUI dependencies
 
@@ -101,7 +101,7 @@ The executable can be found in the build/release/bin folder.
 
 1. Install Xcode from AppStore
 2. Install [homebrew](http://brew.sh/)
-3. Install [monero classic](https://github.com/geldumproject/geldum) dependencies:
+3. Install [geldum](https://github.com/geldumproject/geldum) dependencies:
 
   `brew install boost --c++11`
 
@@ -123,13 +123,13 @@ The executable can be found in the build/release/bin folder.
 
     This is the directory where Qt 5.x is installed on **your** system
 
-6. Grab an up-to-date copy of the monero-core repository
+6. Grab an up-to-date copy of the geldum repository
 
   `git clone https://github.com/geldumproject/geldum.git`
 
 7. Go into the repository
 
-  `cd monero-core`
+  `cd geldum`
 
 8. Start the build
 
@@ -198,7 +198,7 @@ More info: http://stackoverflow.com/a/35098040/1683164
 
 8. Build the GUI
     ```
-    cd monero-core
+    cd geldum
     export PATH=$(ls -rd /c/Qt/5.[6,7,8]/mingw53_32/bin | head -1):$PATH
     ./build.sh
     cd build
