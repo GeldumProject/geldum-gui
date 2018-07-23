@@ -189,7 +189,7 @@ win32 {
     LIBS+= \
         -Wl,-Bstatic \
         -lboost_serialization-mt-s \
-        -lboost_thread-s \
+        -lboost_thread-mt-s \
         -lboost_system-mt-s \
         -lboost_date_time-mt-s \
         -lboost_filesystem-mt-s \
