@@ -55,7 +55,7 @@ Source: "bin\geldum-wallet-rpc.exe"; DestDir: "{app}"; Flags: comparetimestamp
 Source: "bin\geldumd.exe"; DestDir: "{app}"; Flags: comparetimestamp
 
 ; Geldum daemon wrapped in a batch file that stops before the text window closes, to see any error messages
-Source: "geldum-daemon.bat"; DestDir: "{app}"; Flags: comparetimestamp;
+Source: "monero-daemon.bat"; DestDir: "{app}"; Flags: comparetimestamp;
 
 ; Geldum blockchain utilities
 Source: "bin\geldum-blockchain-export.exe"; DestDir: "{app}"; Flags: comparetimestamp
