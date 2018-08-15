@@ -431,7 +431,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
         <source>Mining with your computer helps strengthen the Geldum network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Geldum. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>La minado kun via komputilo sekurigas la Monerreto.  Se pli da homoj minus, la reto iĝus malpli atakebla. Ĉio gravas. &lt;br&gt; &lt;br&gt;Vi havas malgrandan ŝancon ricevi rekompenco en Geldum. Via komputilo kreos haketojn dum serĉi bloksolvojn. Se vi trovas blokon, vi recivos la asociitan rekompencon. Bonŝancon!</translation>
+        <translation>La minado kun via komputilo sekurigas la Geldum.  Se pli da homoj minus, la reto iĝus malpli atakebla. Ĉio gravas. &lt;br&gt; &lt;br&gt;Vi havas malgrandan ŝancon ricevi rekompenco en Geldum. Via komputilo kreos haketojn dum serĉi bloksolvojn. Se vi trovas blokon, vi recivos la asociitan rekompencon. Bonŝancon!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
@@ -1646,8 +1646,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="194"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Geldum mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>La minado sekurigas la Monerreto kaj vi ricevas rekompenceto por la laboro. Tio ĉi opcio ŝaltos la minadon kiam via komputilo uzas la kurentprovizon kaj estas senokupa. La minado haltos kiam vi daŭrigi uzi la komputilon.</translation>
+        <source>Mining secures the Geldum network, and also pays a small reward for the work done. This option will let Geldum mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>La minado sekurigas la Geldum kaj vi ricevas rekompenceto por la laboro. Tio ĉi opcio ŝaltos la minadon kiam via komputilo uzas la kurentprovizon kaj estas senokupa. La minado haltos kiam vi daŭrigi uzi la komputilon.</translation>
     </message>
 </context>
 <context>
@@ -2110,8 +2110,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
-        <translation>Tio adreso ricevis %1 monero classic, kun %2 da konfirmo(j)</translation>
+        <source>This address received %1 GDM, with %2 confirmation(s).</source>
+        <translation>Tio adreso ricevis %1 GDM, kun %2 da konfirmo(j)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="744"/>
