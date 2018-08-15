@@ -2110,7 +2110,7 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
+        <source>This address received %1 Geldum, with %2 confirmation(s).</source>
         <translation>Diese Adresse hat %1 Geldum erhalten, mit %2 Bestätigung(en)</translation>
     </message>
     <message>
