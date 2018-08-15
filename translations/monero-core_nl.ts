@@ -1582,7 +1582,7 @@ Ringgrootte: </translation>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
         <source>Kickstart the Geldum blockchain?</source>
-        <translation>De Monero-CLassic-blockchain starten?</translation>
+        <translation>De Geldum-blockchain starten?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="115"/>
@@ -1607,7 +1607,7 @@ Ringgrootte: </translation>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="175"/>
         <source>Mining secures the Geldum network, and also pays a small reward for the work done. This option will let Geldum mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Minen beveiligt het -CLassic-netwerk en u ontvangt ook een kleine beloning voor het verrichte werk. Deze optie laat Geldum minen als uw computer op netstroom is aangesloten en niets aan het doen is. Het stopt met minen als u weer gebruikt maakt van uw computer.</translation>
+        <translation>Minen beveiligt het Geldum-netwerk en u ontvangt ook een kleine beloning voor het verrichte werk. Deze optie laat Geldum minen als uw computer op netstroom is aangesloten en niets aan het doen is. Het stopt met minen als u weer gebruikt maakt van uw computer.</translation>
     </message>
 </context>
 <context>
