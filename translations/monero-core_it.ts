@@ -2030,8 +2030,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
-        <translation>Questo indirizzo ha ricevuto %1 monero classic con %2 conferma/e.</translation>
+        <source>This address received %1 geldum, with %2 confirmation(s).</source>
+        <translation>Questo indirizzo ha ricevuto %1 geldum con %2 conferma/e.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1317"/>
@@ -2114,8 +2114,8 @@ Fee: </source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
-        <translation>Questo indirizzo ha ricevuto %1 monero classic, ma la transazione non è ancora stata minata</translation>
+        <source>This address received %1 geldum, but the transaction is not yet mined</source>
+        <translation>Questo indirizzo ha ricevuto %1 geldum, ma la transazione non è ancora stata minata</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
