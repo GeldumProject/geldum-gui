@@ -2030,7 +2030,7 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
+        <source>This address received %1 geldum, with %2 confirmation(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2103,7 +2103,7 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
+        <source>This address received %1 geldum, but the transaction is not yet mined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
