@@ -1574,8 +1574,8 @@ Veuillez mettre à jour ou vous connecter à un autre démon</translation>
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
-        <translation>Nous y sommes presque - configurons juste quelques paramètres de Monero</translation>
+        <source>We’re almost there - let’s just configure some Geldum preferences</source>
+        <translation>Nous y sommes presque - configurons juste quelques paramètres de Geldum</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
@@ -1628,8 +1628,8 @@ Veuillez mettre à jour ou vous connecter à un autre démon</translation>
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>Le développement de Monero est soutenu uniquement par des dons</translation>
+        <source>Geldum development is solely supported by donations</source>
+        <translation>Le développement de Geldum est soutenu uniquement par des dons</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -1643,8 +1643,8 @@ Veuillez mettre à jour ou vous connecter à un autre démon</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Monero development.</source>
-        <translation>Pour chaque transaction, de petits frais de transaction doivent être payés. Cette option vous laisse ajouter un montant additionnel, un pourcentage de ces frais, à votre transaction pour soutenir le développement de Monero. Par exemple, un auto-don de 50% avec des frais de transaction de 0.005 XMC ajoutera 0.0025 XMC pour soutenir le développement de Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Monero development.</source>
+        <translation>Pour chaque transaction, de petits frais de transaction doivent être payés. Cette option vous laisse ajouter un montant additionnel, un pourcentage de ces frais, à votre transaction pour soutenir le développement de Geldum. Par exemple, un auto-don de 50% avec des frais de transaction de 0.005 XMC ajoutera 0.0025 XMC pour soutenir le développement de Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
