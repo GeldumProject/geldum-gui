@@ -1959,7 +1959,7 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
+        <source>This address received %1 Geldum, but the transaction is not yet mined</source>
         <translation>Diese Adresse hat %1 Geldum empfangen, aber die Transaktion wurde noch nicht geschürft.</translation>
     </message>
     <message>
