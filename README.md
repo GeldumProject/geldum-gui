@@ -6,21 +6,19 @@ Copyright (c) 2018-2018, The Geldum Project
 ## Development Resources
 
 - Web: [geldum.org](http://geldum.org)
-- Forum: [geldum.org](http://geldum.org)
-- Github: [https://github.com/geldumproject/geldum](https://github.com/geldumproject/geldum)
-
+- Geldum Core Github: [https://github.com/geldumproject/geldum](https://github.com/geldumproject/geldum)
+- Geldum GUI Wallet: [https://github.com/geldumproject/geldum-gui](https://github.com/geldumproject/geldum-gui)
 
 ## About this Project
 
 This is the GUI for the [core Geldum implementation](https://github.com/geldumproject/geldum). It is open source and completely free to use without restrictions, except for those specified in the license agreement below. There are no restrictions on anyone creating an alternative implementation of Geldum that uses the protocol and network in a compatible manner.
 
-As with many development projects, the repository on Github is considered to be the "staging" area for the latest changes. Before changes are merged into that branch on the main repository, they are tested by individual developers in their own branches, submitted as a pull request, and then subsequently tested by contributors who focus on testing and code reviews. That having been said, the repository should be carefully considered before using it in a production environment, unless there is a patch in the repository for a particular show-stopping issue you are experiencing. It is generally a better idea to use a tagged release for stability.
+As with many development projects, the repository on Github is considered to be the "staging" area for the latest changes. Before changes are merged into that branch on the main repository, they are tested by individual developers in their own branches. It is generally a better idea to use a tagged release for stability.
 
 ## Supporting the Project
 
 Geldum development can be supported directly through donations.
-
-
+If you want to Donate, just join either our Discord Channel (http://discord.gg/vBjwx6J) or Telegram Group (http://t.me/geldum)
 
 ## License
 
@@ -28,11 +26,11 @@ See [LICENSE](LICENSE).
 
 ## Installing Geldum Core from a Package
 
-Packages are available for
+Packages are available for Linux / Windows / OsX
 
 Packaging for your favorite distribution would be a welcome contribution!
 
-## Compiling Geldum Core from Source
+## Compiling Geldum Core + Geldum GUI from Source
 
 ### On Linux:
 
@@ -47,13 +45,13 @@ Packaging for your favorite distribution would be a welcome contribution!
 
 	`sudo emerge app-arch/xz-utils app-doc/doxygen dev-cpp/gtest dev-libs/boost dev-libs/expat dev-libs/openssl dev-util/cmake media-gfx/graphviz net-dns/unbound net-libs/ldns net-libs/miniupnpc sys-libs/libunwind`
 
-2. Grab an up-to-date copy of the geldum repository
+2. Grab an up-to-date copy of the geldum-gui repository
 
-	`git clone https://github.com/geldumproject/geldum.git`
+	`git clone https://github.com/geldumproject/geldum-gui.git`
 
 3. Go into the repository
 
-	`cd geldum`
+	`cd geldum-gui`
 
 4. Install the GUI dependencies
 
@@ -125,11 +123,11 @@ The executable can be found in the build/release/bin folder.
 
 6. Grab an up-to-date copy of the geldum repository
 
-  `git clone https://github.com/geldumproject/geldum.git`
+  `git clone https://github.com/geldumproject/geldum-gui.git`
 
 7. Go into the repository
 
-  `cd geldum`
+  `cd geldum-gui`
 
 8. Start the build
 
@@ -193,12 +191,12 @@ More info: http://stackoverflow.com/a/35098040/1683164
 7. Clone repository
     ```
     cd
-    git clone https://github.com/geldumproject/geldum.git
+    git clone https://github.com/geldumproject/geldum-gui.git
     ```
 
 8. Build the GUI
     ```
-    cd geldum
+    cd geldum-gui
     export PATH=$(ls -rd /c/Qt/5.[6,7,8]/mingw53_32/bin | head -1):$PATH
     ./build.sh
     cd build
