@@ -2057,8 +2057,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
-        <translation>這個位址收入了 %1 monero classic，並通過 %2 次的確認。</translation>
+        <source>This address received %1 geldum, with %2 confirmation(s).</source>
+        <translation>這個位址收入了 %1 geldum，並通過 %2 次的確認。</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1317"/>
@@ -2133,8 +2133,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
-        <translation>這個位址已收到 %1 monero classic幣，但這筆交易尚未被礦工確認</translation>
+        <source>This address received %1 geldum, but the transaction is not yet mined</source>
+        <translation>這個位址已收到 %1 geldum幣，但這筆交易尚未被礦工確認</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
