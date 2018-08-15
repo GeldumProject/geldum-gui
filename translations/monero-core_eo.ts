@@ -1636,8 +1636,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>Por ĉiu transakcio, one devas pagi malgrandan transakcikoston. Tio ĉi opcio ebligas aldona kvato (procento de la basa kosto) al via transakcio por subteni la progamadon de Geldum.Ekzemple, 50% aŭtomata donaco aldonas 0.0025 XMC al transakcikosto de 0.005 XMC.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>Por ĉiu transakcio, one devas pagi malgrandan transakcikoston. Tio ĉi opcio ebligas aldona kvato (procento de la basa kosto) al via transakcio por subteni la progamadon de Geldum.Ekzemple, 50% aŭtomata donaco aldonas 0.0025 GDM al transakcikosto de 0.005 GDM.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

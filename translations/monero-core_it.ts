@@ -1635,8 +1635,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>Per ogni transazione si paga una piccola commissione. Questa opzione ti permette di aggiungere un importo addizionale per supportare lo sviluppo di Geldum. Per esempio, con una autodonazione del 50% si paga 0.005 XMC di commissioni e altri 0.0025 per il supporto allo sviluppo di Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>Per ogni transazione si paga una piccola commissione. Questa opzione ti permette di aggiungere un importo addizionale per supportare lo sviluppo di Geldum. Per esempio, con una autodonazione del 50% si paga 0.005 GDM di commissioni e altri 0.0025 per il supporto allo sviluppo di Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

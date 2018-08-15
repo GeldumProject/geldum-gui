@@ -1643,8 +1643,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>在每一笔交易中 Geldum 系统都会收取小额的手续费，而这个选项则是让你可以增加额外的金额赞助 Geldum 的开发，比例以当次交易的手续费计算，譬如 50% 的自动赞助将会从0.005 XMC的手续费算出 0.0025 XMC 的金额赞助给 Geldum 开发团队。</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>在每一笔交易中 Geldum 系统都会收取小额的手续费，而这个选项则是让你可以增加额外的金额赞助 Geldum 的开发，比例以当次交易的手续费计算，譬如 50% 的自动赞助将会从0.005 GDM的手续费算出 0.0025 GDM 的金额赞助给 Geldum 开发团队。</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

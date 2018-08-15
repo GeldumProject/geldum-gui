@@ -1643,8 +1643,8 @@ Por favor atualize ou conecte outro daemon</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>Para cada transação uma pequena taxa é coletada. Esta opção permite você adicionar uma quantidade adicional como porcentagem desta taxa para ajudar o desenvolvimento do Geldum. Por exemplo, 50% de auto-doação em uma taxa de transferência de 0.005 XMC adicionará 0.0025 XMC a taxa para ajudar o desenvolvimento do Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>Para cada transação uma pequena taxa é coletada. Esta opção permite você adicionar uma quantidade adicional como porcentagem desta taxa para ajudar o desenvolvimento do Geldum. Por exemplo, 50% de auto-doação em uma taxa de transferência de 0.005 GDM adicionará 0.0025 GDM a taxa para ajudar o desenvolvimento do Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

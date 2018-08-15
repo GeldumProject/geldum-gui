@@ -1643,8 +1643,8 @@ Actualizează sau conectează-te la un alt serviciu</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>Pentru fiecare tranzacție se plătește un mic comision de tranzacție. Această setare îți permite să adaugi o mică sumă la tranzacție, ca procent din comisionul respectiv, pentru a susține dezvoltarea Geldum. De exemplu, pentru un comision de 0.005 XMC, o donație automată de 50% adaugă 0.0025 XMC pentru susținerea dezvoltării Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>Pentru fiecare tranzacție se plătește un mic comision de tranzacție. Această setare îți permite să adaugi o mică sumă la tranzacție, ca procent din comisionul respectiv, pentru a susține dezvoltarea Geldum. De exemplu, pentru un comision de 0.005 GDM, o donație automată de 50% adaugă 0.0025 GDM pentru susținerea dezvoltării Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

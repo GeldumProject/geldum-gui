@@ -1642,8 +1642,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>За каждую транзакцию взимается небольшая комиссия. Эта опция позволяет вам добавить дополнительную сумму в процентах от этой комиссии к транзакции для поддержки разработки Geldum. Например, 50% автодотации берут плату за транзакцию 0,005 XMC и добавляют 0,0025 XMC для поддержки разработки Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>За каждую транзакцию взимается небольшая комиссия. Эта опция позволяет вам добавить дополнительную сумму в процентах от этой комиссии к транзакции для поддержки разработки Geldum. Например, 50% автодотации берут плату за транзакцию 0,005 GDM и добавляют 0,0025 GDM для поддержки разработки Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
@@ -2108,7 +2108,7 @@ Fee: </source>
     <message>
         <location filename="../main.qml" line="728"/>
         <source>This address received %1 Geldum, with %2 confirmation(s).</source>
-        <translation>Этот адрес получил %1 XMC, с %2 подтверждениями</translation>
+        <translation>Этот адрес получил %1 GDM, с %2 подтверждениями</translation>
     </message>
     <message>
         <location filename="../main.qml" line="744"/>
@@ -2138,7 +2138,7 @@ Fee: </source>
     <message>
         <location filename="../main.qml" line="723"/>
         <source>This address received %1 Geldum, but the transaction is not yet mined</source>
-        <translation>Этот адрес получил %1 XMC, но транзакции еще не подтверждены майнерами</translation>
+        <translation>Этот адрес получил %1 GDM, но транзакции еще не подтверждены майнерами</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>

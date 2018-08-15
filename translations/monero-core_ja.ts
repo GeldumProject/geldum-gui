@@ -1643,8 +1643,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>取引には少額の手数料がかかります。このオプションはその手数料に加えて、手数料の何パーセントかをモネロの開発チームへの寄付として支払うことを許可します。例えば自動寄付の割合が50%で、取引の手数料が0.005 XMC であった場合、0.0025 XMC が開発チームへの寄付として取引に上乗せされます。</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>取引には少額の手数料がかかります。このオプションはその手数料に加えて、手数料の何パーセントかをモネロの開発チームへの寄付として支払うことを許可します。例えば自動寄付の割合が50%で、取引の手数料が0.005 GDM であった場合、0.0025 GDM が開発チームへの寄付として取引に上乗せされます。</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
@@ -2046,12 +2046,12 @@ Ringsize: </source>
     <message>
         <location filename="../main.qml" line="723"/>
         <source>This address received %1 Geldum, but the transaction is not yet mined</source>
-        <translation>このアドレスは%1XMCを受け取りましたが、取引はまだ採掘されていません。</translation>
+        <translation>このアドレスは%1GDMを受け取りましたが、取引はまだ採掘されていません。</translation>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
         <source>This address received %1 Geldum, with %2 confirmation(s).</source>
-        <translation>このアドレスは%1XMCを受け取り、その取引は%2回承認されました。</translation>
+        <translation>このアドレスは%1GDMを受け取り、その取引は%2回承認されました。</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>

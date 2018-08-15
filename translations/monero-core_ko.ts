@@ -1643,8 +1643,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>모든 거래에 대해 작은 수수료가 부과됩니다. 해당 옵션은 수수료 이외에 수수료의 일부에 해당하는 금액을 모네로 개발팀에 기부하는 것을 허용합니다. 예를 들어, 자동 기부율이 50%이고 거래 수수료가 0.005 XMC이면 0.0025 XMC이 개발팀에 대한 기부로 거래금액에 추가됩니다.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>모든 거래에 대해 작은 수수료가 부과됩니다. 해당 옵션은 수수료 이외에 수수료의 일부에 해당하는 금액을 모네로 개발팀에 기부하는 것을 허용합니다. 예를 들어, 자동 기부율이 50%이고 거래 수수료가 0.005 GDM이면 0.0025 GDM이 개발팀에 대한 기부로 거래금액에 추가됩니다.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

@@ -1658,8 +1658,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>לכל העברה קיימת עמלה. אופציה זו מאפשרת לך להוסיף, בנוסף לעמלה, אחוז מסוים מעמלה זו כדי לתמוך בפיתוח של מונרו. למשל, תרומה אוטומטית של 50% עבור עמלה בסך 0.005 XMC תוסיף עוד 0.0025 XMC שיישלחו לצוות הפיתוח של מונרו</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>לכל העברה קיימת עמלה. אופציה זו מאפשרת לך להוסיף, בנוסף לעמלה, אחוז מסוים מעמלה זו כדי לתמוך בפיתוח של מונרו. למשל, תרומה אוטומטית של 50% עבור עמלה בסך 0.005 GDM תוסיף עוד 0.0025 GDM שיישלחו לצוות הפיתוח של מונרו</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>

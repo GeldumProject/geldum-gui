@@ -1651,8 +1651,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 XMC and add a 0.0025 XMC to support Geldum development.</source>
-        <translation>En liten överföringsavgift tas ut för varje överföring. Denna inställning låter dig lägga till ett ytterligare belopp, som en procent av den avgiften, till din överföring för att stödja utveckligen av Geldum. Till exempel, en 50 % automatisk donation tar en överföringsavgift på 0,005 XMC och lägger på 0,0025 XMC för att stödja utvecklingen av Geldum.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Geldum development. For instance, a 50% autodonation take a transaction fee of 0.005 GDM and add a 0.0025 GDM to support Geldum development.</source>
+        <translation>En liten överföringsavgift tas ut för varje överföring. Denna inställning låter dig lägga till ett ytterligare belopp, som en procent av den avgiften, till din överföring för att stödja utveckligen av Geldum. Till exempel, en 50 % automatisk donation tar en överföringsavgift på 0,005 GDM och lägger på 0,0025 GDM för att stödja utvecklingen av Geldum.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
