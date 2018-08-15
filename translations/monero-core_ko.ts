@@ -2034,8 +2034,8 @@ Amount: </source>
     </message>
     <message>
         <location filename="../main.qml" line="734"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
-        <translation>이 주소로 %1 XMC을 받아, %2 번의 컨펌을 받았습니다.</translation>
+        <source>This address received %1 geldum, with %2 confirmation(s).</source>
+        <translation>이 주소로 %1 GDM을 받아, %2 번의 컨펌을 받았습니다.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1324"/>
@@ -2104,8 +2104,8 @@ Amount: </source>
     </message>
     <message>
         <location filename="../main.qml" line="729"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
-        <translation>이 주소는 % 1XMC을 받았지만, 해당 거래가 아직 채굴에 포함되지 않았습니다</translation>
+        <source>This address received %1 geldum, but the transaction is not yet mined</source>
+        <translation>이 주소는 % 1GDM을 받았지만, 해당 거래가 아직 채굴에 포함되지 않았습니다</translation>
     </message>
     <message>
         <location filename="../main.qml" line="738"/>
