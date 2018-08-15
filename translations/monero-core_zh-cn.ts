@@ -430,7 +430,7 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <source>Mining with your computer helps strengthen the Geldum network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Geldum. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
         <translation>挖矿可增进 Geldum 网络的安全性，只要越多使用者在挖矿，Geldum 网络就会越难以被攻击。&lt;br&gt; &lt;br&gt;挖矿同时能让您有机会赚取额外的门罗币，因为在挖矿时，您的计算机将被用来寻找 Geldum 区块的解答，每当您找到一个区块的解答，您即可以获得其附带的门罗币奖励，祝您好运！</translation>
     </message>
     <message>
@@ -2047,8 +2047,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero classic, with %2 confirmation(s).</source>
-        <translation>这个地址接收了 %1 monero classic，并通过 %2 次的确认。</translation>
+        <source>This address received %1 geldum, with %2 confirmation(s).</source>
+        <translation>这个地址接收了 %1 geldum，并通过 %2 次的确认。</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1317"/>
@@ -2123,8 +2123,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero classic, but the transaction is not yet mined</source>
-        <translation>这个地址已收到 %1 monero classic币，但这笔交易尚未被矿工确认</translation>
+        <source>This address received %1 geldum, but the transaction is not yet mined</source>
+        <translation>这个地址已收到 %1 geldum币，但这笔交易尚未被矿工确认</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
